@@ -75,4 +75,6 @@ Git хранит таблицу соответствий хеш → информ
 6. Сделали коммит. Состояния: tracked.
 7. Повторили пункты 4−7 много-много раз.
 
+https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/
+
 
